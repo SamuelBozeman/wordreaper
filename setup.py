@@ -10,11 +10,11 @@ setup(
     description="Reap & Forge Wordlists for Password Cracking",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Nemorous/wordreaper",
+    url="https://github.com/SamuelBozeman/wordreaper",
     project_urls={
-        "Documentation": "https://github.com/Nemorous/wordreaper#readme",
-        "Bug Tracker": "https://github.com/Nemorous/wordreaper/issues",
-        "Source": "https://github.com/Nemorous/wordreaper"
+        "Documentation": "https://github.com/SamuelBozeman/wordreaper#readme",
+        "Bug Tracker": "https://github.com/SamuelBozeman/wordreaper/issues",
+        "Source": "https://github.com/SamuelBozeman/wordreaper"
     },
     packages=find_packages(),
     install_requires=[

@@ -80,7 +80,7 @@ for powerful password cracking, utilizing CSS selectors with surgical precision.
 
 ## Install
 ```bash
-git clone https://github.com/Nemorous/wordreaper.git
+git clone https://github.com/SamuelBozeman/wordreaper.git
 cd wordreaper
 pip install .
 ```
