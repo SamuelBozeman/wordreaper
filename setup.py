@@ -51,7 +51,7 @@ setup(
     license="MIT",
     python_requires='>=3.6',
     package_data={
-        "word_reaper": ["bin/*", "rules/*"],
+        "word_reaper": ["bin/*", "rules/*", "rules/hybrid/*", "rules/optimal/*"],
     },
     include_package_data=True,
 )
