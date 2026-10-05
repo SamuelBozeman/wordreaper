@@ -5,6 +5,19 @@
 
 <br>
 
+### Maintenance Notice
+
+I and many people I know are fans of Word Reaper. Unfortunately, the original
+repository (`Nemorous/wordreaper`) no longer exists. I've taken my fork of it
+and decided to host and maintain it here on my GitHub.
+
+I'll do my best to help make fixes, but I don't claim to know the entire
+codebase. Issues and PRs are welcome.
+
+Thank you to the original developer for creating this project.
+
+<br>
+
 ## About the Project 
 
 This tool is designed to scrape and generate smart, focused wordlists<br> 
@@ -69,7 +82,7 @@ for powerful password cracking, utilizing CSS selectors with surgical precision.
 
 ## Install
 ```bash
-git clone https://github.com/Nemorous/wordreaper.git
+git clone https://github.com/SamuelBozeman/wordreaper.git
 cd wordreaper
 pip install .
 ```
@@ -93,6 +106,11 @@ See [`CHANGELOG.md`](CHANGELOG.md)
 ## License
 
 MIT [`LICENSE`](LICENSE)
+
+Word Reaper bundles prebuilt MIT-licensed helper binaries from the
+[hashcat](https://hashcat.net) project (maskprocessor and hashcat-utils).
+Their license texts are in [`word_reaper/bin/`](word_reaper/bin/)
+(`LICENSE.maskprocessor`, `LICENSE.hashcat-utils`).
 
 ---
 
