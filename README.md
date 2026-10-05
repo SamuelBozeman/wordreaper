@@ -14,6 +14,8 @@ and decided to host and maintain it here on my GitHub.
 I'll do my best to help make fixes, but I don't claim to know the entire
 codebase. Issues and PRs are welcome.
 
+Thank you to the original developer for creating this project.
+
 <br>
 
 ## About the Project 
