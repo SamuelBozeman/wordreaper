@@ -5,6 +5,17 @@
 
 <br>
 
+### Maintenance Notice
+
+I and many people I know are fans of Word Reaper. Unfortunately, the original
+repository (`Nemorous/wordreaper`) no longer exists. I've taken my fork of it
+and decided to host and maintain it here on my GitHub.
+
+I'll do my best to help make fixes, but I don't claim to know the entire
+codebase. Issues and PRs are welcome.
+
+<br>
+
 ## About the Project 
 
 This tool is designed to scrape and generate smart, focused wordlists<br> 
