@@ -94,6 +94,11 @@ See [`CHANGELOG.md`](CHANGELOG.md)
 
 MIT [`LICENSE`](LICENSE)
 
+Word Reaper bundles prebuilt MIT-licensed helper binaries from the
+[hashcat](https://hashcat.net) project (maskprocessor and hashcat-utils).
+Their license texts are in [`word_reaper/bin/`](word_reaper/bin/)
+(`LICENSE.maskprocessor`, `LICENSE.hashcat-utils`).
+
 ---
 
 ## Contributions
